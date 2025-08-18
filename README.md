@@ -20,7 +20,7 @@
 ✅ Built with **React + Firebase**  
 ✅ Real-time class availability & booking  
 ✅ Authentication and user-friendly interface  
-🎥 [Watch Demo](https://your-video-link.com) 
+🎥 [Watch Demo](https://youtu.be/gyS4uOIpTXc) 
 🛡️ *Private repository – available on request*
 
 ---
@@ -30,7 +30,7 @@
 ✅ Authentication & access control  
 ✅ CRUD operations for user data  
 ✅ Built with **React + Firebase Firestore**  
-🎥 [Watch Demo](https://your-video-link.com)
+🎥 [Watch Demo](https://youtu.be/du4rFX_nGqU)
 🛡️ *Private repository – available on request*
 
 ---
