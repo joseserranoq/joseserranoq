@@ -11,7 +11,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-
+![Python](https://img.shields.io/badge/python-3670A0?logo=Python&logoColor=ffdd54)
 ---
 
 ## 📌 Featured Projects  
